@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958996135318",
+    "project_id": "project-bed3c",
+    "storage_bucket": "project-bed3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958996135318:android:22c3c39c8d07b3bb9131b7",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9N6W1yJ6yZyN1SHFo49JffEIxy-wVBwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
